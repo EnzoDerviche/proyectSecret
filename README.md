@@ -11,10 +11,10 @@ Para clonar y correr esta aplicacion se necesita [Git](https://git-scm.com) y [n
 
 ```bash
 # Clonar el repositorio
-$ git clone https://github.com/EnzoDerviche/challengeNubceo.git
+$ git clone https://github.com/EnzoDerviche/proyectSecret.git
 
 # Ir al a carpeta
-$ cd challengeNubceo/client
+$ cd client
 ```
 
 ## Para correr
