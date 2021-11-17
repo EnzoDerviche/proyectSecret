@@ -7,7 +7,7 @@
 
 ## Set up
 
-Para clonar y correr esta aplicacion se necesita [Git](https://git-scm.com) y [npm](http://npmjs.com)).
+Para clonar y correr esta aplicacion se necesita [Git](https://git-scm.com) y [npm](http://npmjs.com).
 
 ```bash
 # Clonar el repositorio
